@@ -17,9 +17,3 @@ The HTML structure of the webpage is simple and intuitive. It begins with a titl
 ### Table Structure
 
 Below the title, a table is created to present the population data. Using a loop, the information retrieved from the API is dynamically inserted into the table cells, ensuring a chronological order for better readability.
-
-## Example
-
-Here is an example screenshot of the populated table:
-
-![Screenshot Population Data](https://github.com/henrykrain/hw2/assets/120867004/49f9700a-c00c-4cb0-b3e7-7ac0b5016c27)
