@@ -16,4 +16,4 @@ The HTML structure of the webpage is simple and intuitive. It begins with a titl
 
 ### Table Structure
 
-Below the title, a table is created to present the population data. Using a loop, the information retrieved from the API is dynamically inserted into the table cells, ensuring a chronological order for better readability.
+Below the title, a table is created to present the population data. Using a loop, the information retrieved from the API is inserted into the table cells, ensuring a chronological order for easier readability.
